@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "onoff": "^1.1.7",
-    "spi-device": "^0.2.6"
+    "pi-spi": "^1.0.2"
   }
 }
